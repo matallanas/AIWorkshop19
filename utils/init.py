@@ -3,6 +3,7 @@ This file holds the basic initialization and setup functions, as well as a set
 of project-wide constants for settings.
 
 Authors: Eduardo Matallanas (@matallanas)
+Pablo Doval (@PabloDoval)
 '''
 import os
 import tensorflow as tf

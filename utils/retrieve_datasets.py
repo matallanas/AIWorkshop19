@@ -2,6 +2,7 @@
 This module will deal with download the required datasets for the workshop.
 
 Authors: Eduardo Matallanas (@matallanas)
+Pablo Doval (@PabloDoval)
 '''
 import sys
 sys.path.append('../') 
