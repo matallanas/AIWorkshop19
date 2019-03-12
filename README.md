@@ -24,9 +24,9 @@ The workshop will use the following datasets:
 
 * MNIST Hand Written Digits
 
-The data is not provided in this repo, but instead needs to be downloaded and processed sepparately. These can be downloaded, and have the needed transformations applied automatically, by running the following Python command from the base directory:
+The data is not provided in this repo, but instead needs to be downloaded and processed sepparately. These can be downloaded, and have the needed transformations applied automatically, by running the following Python command from the `utils` directory:
 
-`python scripts/retrieve_datasets.py`
+`python retrieve_datasets.py`
 
 Both datasets are described to a greater extent in the next sections:
 
