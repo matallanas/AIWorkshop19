@@ -16,3 +16,21 @@ if __name__ == '__main__':
 
     # Retrieve dataset
     (X_train, y_train), (X_test, y_test) = mnist.load_data()
+
+    
+    # Set up parameters and hyper-parameters
+
+
+    # Prepare data: Resoze and normalize, as well set outcomes as categorical
+ 
+
+    # Build model (using the softmax activation function)
+
+
+    # Train the model
+ 
+
+    # Evaluate it against the test dataset
+
+    print('Train loss: ', xxxx)
+    print('Train accuracy: ', xxxx

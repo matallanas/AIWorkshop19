@@ -1,0 +1,9 @@
+name: aiworkshop
+channels:
+- defaults
+dependencies:
+- python=3.6.0
+- tensorflow-gpu=1.10.0
+- tensorboard
+- keras=2.2.2
+- jupyter
